@@ -1,4 +1,4 @@
-Simple Home Automation Pebble.js script http sender for eedomus (French ZWave Home AUtomation System)
+Simple Pebble.js script http sender for eedomus (French ZWave Home Automation System)
 ===========
 
 This is a proof of concept
